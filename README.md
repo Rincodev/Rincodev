@@ -21,7 +21,6 @@
 - 💻 **Programming**: C, C++, C#, Arduino, Python  
 - 🗄️ **Databases**: MySQL, PostgreSQL, SQLite, Supabase  
 - ⚙️ **Virtualization**: VMware, VirtualBox  
--  (без Azure, Docker — пока опыта нет)
 
 ---
 
