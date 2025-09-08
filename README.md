@@ -56,10 +56,8 @@
 
 ## 📌 Featured Projects
 - [**FireLog-Insight**](https://github.com/Rincodev/Firelog-Insight) – Firewall log analysis tool (WPF, .NET, MySQL/PostgreSQL, Charts, Export)  
-- [**Cisco Corporate Network Security Lab**](https://bohdan.admstore.cz/projects/cisco_network) – VLANs, ACLs, FHRP, DHCP Snooping, Security  
-- [**Arduino BCD Converter**](https://bohdan.admstore.cz/projects/arduino_bcd) – Hardware project, digital display with Arduino  
-- [**AI-Gateway (concept)**](https://bohdan.admstore.cz/projects/ai_gateway) – Raspberry Pi 5 + AI for network anomaly detection  
-
+- [**Cisco Corporate Network Security Lab**](https://bohdan.admstore.cz/portfolio.html) – VLANs, ACLs, FHRP, DHCP Snooping, Security
+  
 ---
 
 ## 🏆 Achievements
