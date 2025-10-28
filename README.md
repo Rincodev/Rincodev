@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 Connect with me
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-bohdan.admstore.cz-blue)](https://bohdan.admstore.cz)  
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-bohdan.admstore.cz-blue)](https://bohdan.nothix.eu)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/bohdan-yatsenko-880a4831b)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Rincodev)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:jacenbo1226@gmail.com)  
@@ -56,7 +56,7 @@
 
 ## 📌 Featured Projects
 - [**FireLog-Insight**](https://github.com/Rincodev/Firelog-Insight) – Firewall log analysis tool (WPF, .NET, MySQL/PostgreSQL, Charts, Export)  
-- [**Cisco Corporate Network Security Lab**](https://bohdan.admstore.cz/portfolio.html) – VLANs, ACLs, FHRP, DHCP Snooping, Security
+- [**Cisco Corporate Network Security Lab**](https://bohdan.nothix.eu/portfolio.html) – VLANs, ACLs, FHRP, DHCP Snooping, Security
   
 ---
 
